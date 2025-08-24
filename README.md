@@ -39,5 +39,5 @@ AI 수학 교과서 (Mathematical Foundations for AI) 수업 보조 자료 저�
 
 1. 저장소 클론:
    ```bash
-   git clone https://github.com/username/math4ai-notes.git
+   git clone https://github.com/DrJaewookLee/math4ai-notes.git
    cd math4ai-notes
