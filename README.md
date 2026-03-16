@@ -102,3 +102,20 @@ AI 수학 교과서 (Mathematical Foundations for AI) 수업 보조 자료 저�
    ```bash
    git clone https://github.com/DrJaewookLee/math4ai-notes.git
    cd math4ai-notes
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="suebinhan/math4ai-notes"
+        data-repo-id="R_kgDORoILJw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORoILJ84C4frI"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="ko"
+        crossorigin="anonymous"
+        async>
+</script>
