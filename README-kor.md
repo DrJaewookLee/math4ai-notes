@@ -28,7 +28,6 @@ AI 수학 교과서 (Mathematical Foundations for AI) 수업 보조 자료 저�
   - 확률론에서의 특성 함수(Characteristic Functions) 및 푸리에 역변환의 응용
 
 
-
 **2부: 스펙트럴 방법과 미분방정식 (Spectral Methods and Differential Equations)**
 
 - **제5장: 특이값 분해 (Singular Value Decomposition, SVD)**
@@ -43,7 +42,6 @@ AI 수학 교과서 (Mathematical Foundations for AI) 수업 보조 자료 저�
   - 선형 미분 방정식의 해법과 행렬 지수 함수(Matrix Exponential)를 이용한 시스템 해석
   - 상태 평면 분석(Phase Portraits)과 시스템의 동적 안정성 판별
   - 로지스틱 성장 및 포식자-피식자 모델을 통한 비선형 시스템의 모델링 및 분석
-
 
 
 **3부: 최적화 (Optimization)**
@@ -61,7 +59,6 @@ AI 수학 교과서 (Mathematical Foundations for AI) 수업 보조 자료 저�
   - 라그랑주 쌍대성(Lagrangian Duality): 원 문제와 쌍대 문제의 관계 및 안장점(Saddle point) 이론
 
 
-
 **4부: 통계적 학습 이론 (Statistical Learning Theory)**
 
 - **제11장: 확률, 정보 및 추정 (Probability, Information, and Estimation)**
@@ -74,3 +71,30 @@ AI 수학 교과서 (Mathematical Foundations for AI) 수업 보조 자료 저�
 - **제13장: 커널과 서포트 벡터 머신 (Kernels and Support Vector Machine)**
   - 재생 커널 힐베르트 공간(RKHS)과 머서 커널(Mercer Kernels)의 수학적 정의
   - SVM(Support Vector Machine): 마진 최대화와 커널 트릭을 통한 비선형 데이터 분리 기법
+
+
+**5부: 현대 인공지능과 동역학 (Modern AI and Dynamics)**
+
+- **제14장: 신경망 훈련 (Training Neural Networks)**
+  - 오차 역전파(Backpropagation) 알고리즘의 행렬 미적분학적 유도
+  - 순환 신경망(RNN)의 훈련과 시간 기반 역전파(BPTT) 및 기울기 소실 문제 해결(LSTM, GRU)
+- **제15장: 어텐션 메커니즘과 트랜스포머 (Attention Mechanisms and Transformers)**
+  - Seq2Seq 모델에서 Self-Attention으로의 발전 과정과 트랜스포머 아키텍처 심층 분석
+  - Multi-Head Attention과 포지셔널 인코딩(Positional Encoding)의 수학적 역할
+  - 최신 모델 효율화 기법인 LoRA 및 상태 공간 모델(SSM)로의 확장
+- **제16장: 최적 운송과 분포 기하 (Optimal Transport and Distributional Geometry)**
+  - 펜첼 쌍대성(Fenchel Duality)과 볼록 공액성 및 와세르슈타인 거리(Wasserstein Distance)
+  - 최적 운송(Optimal Transport) 이론을 이용한 생성 모델(VAE, WAE)의 기하학적 최적화
+- **제17장: 기하학적·확률적 동역학 (Geometric and Stochastic Dynamics)**
+  - 리야푸노프 안정성(Lyapunov Stability) 분석과 그래디언트 플로우(Gradient Flows)
+  - Neural ODE: 미분 방정식을 이용한 연속 시간 신경망 모델링
+  - 확률 미분 방정식(SDE)과 최신 생성 AI의 핵심인 확산 모델(Diffusion Models)의 수학적 원리
+
+---
+
+## 🛠️ 사용 방법 (How to Use)
+
+1. 저장소 클론:
+   ```bash
+   git clone https://github.com/DrJaewookLee/math4ai-notes.git
+   cd math4ai-notes
