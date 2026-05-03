@@ -9,7 +9,7 @@ The official PDF versions of *Mathematical Foundations for AI* are available fro
 - [Version 1.0.0, 2026-04-30](https://github.com/DrJaewookLee/math4ai-notes/releases/tag/v1.0.0)
 - First Official Release (Amazon Paperback English Edition)
 - ISBN: 9798195035235
-- <img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/c8ec5bc3-8a3b-4163-944e-0ce802d7d1da" />
+- [<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/c8ec5bc3-8a3b-4163-944e-0ce802d7d1da" />](https://doi.org/10.5281/zenodo.20005565)
 
 
 ---
